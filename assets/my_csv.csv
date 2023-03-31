@@ -1,0 +1,31 @@
+﻿#, Name, Avg Cycles/Game, Drive Train, Game Pieces, Levels, Previously Competed, TeleOp Balance, Autonomous Balance,
+746, Gearheads, null, null, null, null, null, null, null
+1310, Runnymede, 7, Tank, Both, Low/Mid/High, N, Y, Y
+2198, Paradigm Shift, null, 2 Speed West Coast, Both, null, N, N, N
+2706, Merge, 6/7, Swerve, Both, Low/Mid/High, N, Y, Y
+2852, DM High Voltage, 10-12, null, Both, Low/Mid/High, null, Y, Y
+2935, NACl, 4/5, null, Both, Mid (Cones & Cubes) Low/High (Cubes), Y, Y, N
+3571, Mustang, null, null, null, null, null, null, null
+4308, ABSOLUTE, 4/5, null, Both, Low/Mid/High, N, Y, Y
+4343, MaxTech, 8/9, Swerve, Both, Low/Mid/High, N, Y, N
+4476, W.A.F.F.L.E.S., 7/8, Swerve, Both, Low/Mid/High, Y, Y, Y
+5031, Full Metal Mustangs, null, Tank, Both, Low/Mid, Y, Y, N
+5032, Falcons, null, null, null, null, null, null, null
+5036, The Robo Devils, 4/5, null, Both, Low/Mid/High, Y, Y, Y
+5596, Wolverines, null, null, null, null, null, null, null
+5719, Pink Titans, 6, null, Both, Mid (Cubes) High (Cones), Y, Y, Y
+6135, Arctos, null, Tank, Both, Low/Mid/High, Y, Y, Y
+6141, O'Connor, null, null, null, null, null, null, null
+6397, Romero, null, null, null, null, null, null, null
+6866, Markham Space Invaders, null, Tank, Both, Low, Y, Y, N
+6977, Cyber Squad, 3-6, Tank, Cubes, Low, N, Y, Y
+6978, QuickStrike Niagara, 3-6, Tank, Both, Low/Mid (Cubes & Cones) High (Cubes), N, Y, Y
+7136, Thistletown Scot Bots, null, null, null, null, null, null, null
+7558, ALT-F4, 7/8, Swerve, Both, Low/Mid/High, Y, Y, Y
+7603, VESPA, 4/5, null, Both, Low/Mid/High, Y, Y, Y
+7690, Ironworks, 6, Tank, Both, Low/Mid/High, Y, Y, Y
+7712, UMOJA, 4/5, Arcade, Both, Low/Mid/High, Y, Y, N
+8349, Newbotics, null, null, Both, Low/Mid, Y, Y, null
+8574, Audeamus, null, null, null, null, null, null, null
+8729, Sparkling H2O, null, null, null, null, null, null, null
+8850, Ed Bears, null, null, null, null, null, null, null
